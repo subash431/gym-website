@@ -1,0 +1,386 @@
+/* hero section */
+@media screen and (max-width: 900px) {
+    .hero_section{
+        gap: 0rem;
+    }
+    .about__section--right{
+        padding: 0rem;
+        margin-left: 23rem;
+    }
+    .hero_section-right img{
+        height: 21rem;
+    }
+    .about__section--left img{
+        top: -42px;
+    left: -368px;
+    height: 38rem;
+    }
+    .shopping-img{
+       
+        justify-content: center;
+    }
+    .testimonial--container{
+        gap: 3rem;
+    }
+
+    .services__container--2{
+        gap: 10rem;
+    }
+    .image-3 {
+        width: 25rem;
+    }
+    .image-4 {
+        
+        top: 219px;
+        left: 219px;
+        width: 21rem;
+    }
+    .services__container--2--left>h2>strong{
+        font-size: 1.3rem;
+    }
+    .services__container--2--left h3{
+        font-size: 1rem;
+    }
+    .services__container--1{
+        margin-bottom: 0rem;
+        gap: 5rem;
+    }
+    .image-1{
+        height: 12rem;
+    }
+    .image-2 {
+        position: absolute;
+        top: 254px;
+        left: 173px;
+        height: 9rem;
+    }
+    .services__section {
+        padding: 0rem;
+        gap: 4rem;
+    }
+    p{
+        font-size: .8rem;
+    }
+
+    .pricing__contsiner{
+        gap: 0rem;
+
+    }
+    .pricing__section--items{
+        gap: 1rem;
+    }
+    .location__container{
+        gap: 1rem;
+    }
+
+
+
+
+  }
+
+  @media screen and (max-width: 769px){
+    .pricing__section--items{
+        flex-direction: column;
+    }
+    .testimonial--container {
+        gap: 0rem;
+    }
+  }
+
+  @media screen and (max-width: 700px) {
+    .testimonial--container{
+        gap: 0rem;
+    }
+    .services__container--2 {
+        gap: 2rem;
+    }
+    .services__container--1 {
+       
+        gap: 5rem;
+    }
+    .testimonial >p{
+        font-size: 
+        .7rem;
+        width: 26rem;
+    }
+    .shooping__button {
+        font-size: .8rem;
+    }
+    .about__section--left img {
+        top: 5px;
+        left: -323px;
+        height: 33rem;
+    }
+    .about__section--right {
+        
+        margin-left: 19rem;
+    }
+    .image-1 {
+        height: 10rem;
+    }
+    .image-2{
+        top: 226px;
+    left: 118px;
+    height: 7rem;
+    }
+    .location{
+        flex-direction: column;
+    }
+    .middle h1{
+        font-size: 1rem;
+    }
+    .middle ul li a {
+        font-size: .8rem;
+    }
+
+  }
+
+  @media screen and (max-width: 600px) {
+    .testimonial--container {
+        flex-direction: column;
+        padding: 2rem;
+       
+    }
+    .testimonial{
+      width: 30rem;
+    }
+    .testimonial_image-1 img {
+        height: 7rem;
+    }
+    .testimonial_image h3{
+        font-size: .8rem;
+    }
+    .testimonial_image h3>strong {
+        font-size: .5rem;
+    }
+    .image-3 {
+        width: 17rem;
+    }
+    .image-4 {
+        top: 199px;
+        left: 182px;
+        width: 13rem;
+    }
+    .about__section--left img {
+        top: 73px;
+        left: -257px;
+        height: 26rem;
+    }
+    .about__section--right {
+        margin-left: 15rem;
+    }
+    .shooping >h1 {
+        margin-top: 0rem;
+        font-size: 1.3rem;
+    }
+    .shopping-img{
+        gap: 2rem;
+    }
+    .shopping__image--item1 img {
+        height: 10rem;
+       
+    }
+    .shopping__image--item1 h1 {
+        font-size: 1rem;
+    }
+    .arrow img{
+        height: 1rem;
+    }
+    .services__section{
+        gap: 1rem;
+        padding: 2rem;
+    }
+    .services__container--right h1 >strong{
+        font-size: .9rem;
+    }
+    .services__section h1{
+        font-size: 1rem;
+    }
+    strong{
+        font-size: 1rem;
+    }
+
+    .services__container--2--left{
+        gap: 0rem;
+    }
+    .shooping__button {
+        width: 6rem;
+    }
+    .services__container--1 {
+        gap: 3rem;
+    }
+
+   
+
+  }
+  @media screen and (max-width: 500px){
+    .hero_section-right img {
+        height: 12rem;
+    }
+    .hero_section-left {
+        gap: 0rem;
+        margin-left: 0rem;
+    }
+    .hero_section{
+        padding: 1rem;
+        gap: 1rem;
+    }
+    .hero_section-left h1{
+        font-size: 1rem;
+    }
+    .about__section--left img {
+       display: none;
+    }
+    .about__section--right >h1{
+        font-size: 1rem;
+    }
+    .about__section--right {
+        margin-left: 0rem;
+        width: 100%;
+        padding: 2rem;
+    }
+    .shooping >h1 {
+       
+        font-size: .9rem;
+    }
+    .shopping-img{
+        flex-direction: column;
+    }
+
+    .testimonial >p {
+        font-size: .7rem;
+        width: 15rem;
+    }
+    .testimonial {
+        width: 0rem;
+    }
+    .testimonial_image{
+        gap: 1rem;
+        width: 15rem;
+    }
+    .testimonial__Sectio{
+        margin-top: 0rem;
+    }
+    .testimonial h1 {
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+    .more_than img{
+        height: 1rem;
+    }
+    .less_than img{
+        height: 1rem;
+    }
+    .testimonial_image-1 img {
+        height: 5rem;
+    }
+    .services__container--2 {
+        gap: 2rem;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .image-4{
+        display: none;
+    }
+    .image-3 {
+        width: 18rem;
+    }
+    .services__container--1{
+        flex-direction: column;
+    }
+    .image-1 {
+        height: 12rem;
+    }
+    .image-2 {
+        display: none;
+    }
+    .services__container--right{
+        align-items: flex-start;
+        width: 100%;
+    }
+    .services__container--right> p{
+        text-align: justify;
+
+    }
+    .services__container--2--left>h2>strong {
+        font-size: 1rem;
+    }
+    .services__container--2--left h3 {
+        font-size: .7rem;
+    }
+    .services__container--2{
+        margin-left: -3rem;
+    }
+    .shopping__image--item1 img {
+        height: 15rem;
+        margin-bottom: 1rem;
+    }
+    .shopping__image--item1{
+        gap: 0rem;
+    }
+    .location img {
+        height: 2.5rem;
+    }
+    .location{
+        gap: .2rem;
+    }
+    .location p {
+        font-size: .4rem;
+    }
+    .location__container{
+        gap: 2rem;
+    }
+
+  }
+
+  @media screen and (max-width: 400px){
+    .footer__section{
+        padding: 1rem;
+    }
+    .left img {
+        height: 2rem;
+    }
+    .footer__section--container{
+        gap: 2rem;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .left{
+        width: 100%;
+    }
+    .left img {
+        height: 1rem;
+    }
+    .middle {
+        width: 26%;
+    }
+    .items{
+        width: 122%;
+       
+    }
+    .pricing__contsiner >h1{
+        font-size: 1rem;
+    }
+    .pricing__contsiner >h3{
+        font-size: 1rem;
+    }
+    .items >h1{
+        font-size: 1.5rem;
+    }
+    .items >h2{
+        font-size: 1.5rem;
+    }
+    .items >h3{
+        font-size: .6rem;
+    }
+    .location__container{
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .location{
+        gap: 1rem;
+    }
+    
+  }
