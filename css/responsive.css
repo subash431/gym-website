@@ -384,3 +384,89 @@
     }
     
   }
+
+  @media screen and (min-width: 901px) and (max-width:1355px) 
+  {
+    .testimonial--container {
+        gap: 4rem;
+    }
+    .services__container--2{
+        gap: 4rem;
+    }
+    .image-3 {
+        width: 30rem;
+    }
+    .image-4 {
+        position: absolute;
+        top: 219px;
+        left: 220px;
+        width: 24rem;
+    }
+    .services__section{
+        gap: 2rem;
+        padding: 1rem;
+    }
+    .about__section--left img {
+       
+        top: -90px;
+        left: -419px;
+        height: 43rem;
+        width: auto;
+    }
+    .about__section--right {
+        width: 50%;
+        margin-left: 25rem;
+        padding: 0rem;
+    }
+    .services__container--1{
+        gap: 6rem;
+    }
+    .image-1 {
+       
+        height: 13rem;
+    }
+    .image-2 {
+        position: absolute;
+        top: 216px;
+        left: 146px;
+        height: 10rem;
+    }
+    .services__container--right p{
+        text-align: justify;
+
+    }
+    .hero_section{
+        gap: 7rem;
+    }
+    .location__container{
+        gap: 2rem;
+    }
+    .location img{
+        height: 2.5rem;
+    }
+    .location p{
+        font-size: .8rem;
+    }
+    .location{
+        gap: 1rem;
+    }
+    .footer__section--container{
+        gap: 2rem;
+    }
+    .middle h1 {
+        font-size: 1rem;
+    }
+    .middle ul li a {
+        
+        font-size: 1rem;
+        
+    }
+    .left p{
+        font-size: .8rem;
+    }
+    .pricing__section--items{
+        flex-wrap: wrap;
+    }
+
+  }
+  
